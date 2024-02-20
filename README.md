@@ -1,9 +1,9 @@
-- 👋 Olá! Sou João Pedro, um estudante de Engenharia da Computação no quinto semestre, dedicado a explorar e expandir meus conhecimentos no vasto mundo da tecnologia.
+- 👋 Olá! Sou João Pedro, um estudante de Engenharia da Computação no quinto semestre, dedicado a explorar e expandir meus conhecimentos no vasto mundo da tecnologia!
 - 🌱 Estou constantemente buscando aprender e aprimorar minhas habilidades em diversas áreas, incluindo desenvolvimento de software, inteligência artificial, aprendizado
 de máquina e segurança da informação. Acredito firmemente que a educação contínua e a curiosidade são fundamentais para o sucesso nesta indústria em constante evolução.
 - 💼 Estou sempre aberto a novas oportunidades de aprendizado e colaboração!
 - 🚀 Estou empolgado para compartilhar meu progresso, projetos e contribuições aqui no GitHub. Junte-se a mim nesta jornada de aprendizado e descoberta!
-- 📫 É possível me encontrar através do discord: labussiere_
+- 📫 É possível me encontrar através do discord, meu username é: labussiere_
 
 
 <!---
