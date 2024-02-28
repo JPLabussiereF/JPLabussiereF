@@ -20,12 +20,6 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JPLabussiereF&theme=midnight-purple&layout=compact&bg_color=000&border_color=8300ff&text_color=FFF)
 
-## 📝 Repositories
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JPLabussiereF&repo=Desafio-Primeiros-Passos-com-HTML&theme=midnight-purple&bg_color=000&border_color=8300ff&show_icons=true&icon_color=30A3DC&text_color=FFF)](https://github.com/JPLabussiereF/Desafio-Primeiros-Passos-com-HTML)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JPLabussiereF&repo=Desafio-Felipao-Escrevendo-as-Classes-de-Um-Jogo&theme=midnight-purple&bg_color=000&border_color=8300ff&show_icons=true&icon_color=30A3DC&text_color=FFF)](https://github.com/JPLabussiereF/Desafio-Felipao-Escrevendo-as-Classes-de-Um-Jogo)
-
-
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JPLabussiereF&hide_title=true&border_color=8300ff&theme=midnight-purple&show_icons=true)
