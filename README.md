@@ -3,7 +3,7 @@
 de máquina e segurança da informação. Acredito firmemente que a educação contínua e a curiosidade são fundamentais para o sucesso nesta indústria em constante evolução.
 - 💼 Estou sempre aberto a novas oportunidades de aprendizado e colaboração!
 - 🚀 Estou empolgado para compartilhar meu progresso, projetos e contribuições aqui no GitHub. Junte-se a mim nesta jornada de aprendizado e descoberta!
-- 📫 É possível me encontrar através do discord, meu username é: labussiere_
+
 
 
 <!---
