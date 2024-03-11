@@ -9,7 +9,7 @@
 🚀 I'm excited to share my progress, projects, and contributions here on GitHub. Join me on this journey of learning and discovery!
 
 ## 👋 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-labussiere-frança-550937282/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-labussiere-frança-550937282/) 
 [<img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="70">](https://web.dio.me/users/labussework)
 
 ## 📚 Studying in this moment
