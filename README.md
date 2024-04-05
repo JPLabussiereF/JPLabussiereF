@@ -3,6 +3,7 @@
 👋 Hello! I'm João Pedro, a Computer Engineering student in his fifth semester, dedicated to exploring and expanding my knowledge in the vast world of technology!
 
 🌱 I constantly seek to learn and improve my skills in various areas, including software development, artificial intelligence, machine learning and information security. I firmly believe that continuous education and curiosity are key to success in this ever-evolving industry.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer Illustration" min-width="200px" max-width="200px" width="200px" align="right">
 
 💼 Always open to new learning and collaboration opportunities!
 
