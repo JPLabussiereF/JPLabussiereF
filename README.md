@@ -4,18 +4,22 @@
 </div>
 
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer Illustration" min-width="200px" max-width="200px" width="200px" align="right"> -->
-<img src="assets\images\Innovation-amico.png" alt="Computer Illustration" min-width="250px" max-width="200px" width="250px" align="right">
-<img src="assets\images\Programmer-amico.png" alt="Computer Illustration" min-width="250px" max-width="200px" width="250px" align="left">
+<div align="center">
 
-<br><br><br><br><br><br><br><br><br><br><br><br>
+<img src="assets\images\Programmer-amico.png" alt="Computer Illustration" min-width="250px" max-width="200px" width="250px" >
+<img src="assets\images\Innovation-amico.png" alt="Computer Illustration" min-width="250px" max-width="200px" width="250px" >
+
+</div>
+
 
 <div align="left">
 
-# 🚀 About me
+# 🦦 About me
 
-👋 Hello! I'm João Pedro, a Computer Engineering student in his fifth semester, dedicated to exploring and expanding my knowledge in the vast world of technology!
+👾 Hello! I'm João Pedro, a Computer Engineering student in his fifth semester, dedicated to exploring and expanding my knowledge in the vast world of technology!
 
 🌱 I constantly seek to learn and improve my skills in various areas, including software development, artificial intelligence, machine learning and information security. I firmly believe that continuous education and curiosity are key to success in this ever-evolving industry.
+
 💼 Always open to new learning and collaboration opportunities! 
 
 🚀 I'm excited to share my progress, projects, and contributions here on GitHub. Join me on this journey of learning and discovery! 
