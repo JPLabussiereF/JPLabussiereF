@@ -6,8 +6,9 @@
 <!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer Illustration" min-width="200px" max-width="200px" width="200px" align="right"> -->
 <div align="center">
 
-<img src="assets\images\Programmer-amico.png" alt="Computer Illustration" min-width="250px" max-width="200px" width="250px" >
-<img src="assets\images\Innovation-amico.png" alt="Computer Illustration" min-width="250px" max-width="200px" width="250px" >
+<img src="assets\images\Programmer-amico.png" alt="Programmer amico" min-width="250px" max-width="200px" width="200px" >
+<img src="assets\images\Innovation-amico.png" alt="Innovation amico" min-width="250px" max-width="200px" width="200px" >
+<img src="assets\images\Code-typing-bro.png" alt="Code Typing" min-width="250px" max-width="200px" width="200px" >
 
 </div>
 
