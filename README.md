@@ -3,13 +3,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=AD11FF&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%92%9C+Welcome+to+my+GitHub%2C+feel+free!!)](https://git.io/typing-svg)
 </div>
 
-<!-- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer Illustration" min-width="200px" max-width="200px" width="200px" align="right"> -->
-<div align="center">
+<style>
+    img .imagens{
+        display: flex;
+        flex-direction: row;
+    }
+</style>
+
+<div align="center" class='imagens'>
+
 
 <img src="assets\images\Programmer-amico.png" alt="Programmer amico" min-width="200px" max-width="200px" width="230px" >
 <img src="assets\images\Innovation-amico.png" alt="Innovation amico" min-width="200px" max-width="200px" width="230px" >
 <img src="assets\images\Code-typing-bro.png" alt="Code Typing" min-width="200px" max-width="200px" width="230px" >
-
 </div>
 
 
