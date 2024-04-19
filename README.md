@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=AD11FF&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%92%9C+Welcome+to+my+GitHub%2C+feel+free!!)](https://git.io/typing-svg)
+
 # 🚀 About me
 
 👋 Hello! I'm João Pedro, a Computer Engineering student in his fifth semester, dedicated to exploring and expanding my knowledge in the vast world of technology!
