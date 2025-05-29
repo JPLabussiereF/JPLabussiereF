@@ -4,11 +4,7 @@
 </div>
 
 <div align="center">
-
-
-<img src="assets\images\Programmer-amico.png" alt="Programmer amico" min-width="200px" max-width="200px" width="230px" >
-<img src="assets\images\Innovation-amico.png" alt="Innovation amico" min-width="200px" max-width="200px" width="230px" >
-<img src="assets\images\Code-typing-bro.png" alt="Code Typing" min-width="200px" max-width="200px" width="230px" >
+  <img height="350em" src="https://media.licdn.com/dms/image/v2/D4D16AQESUJhud_J-hA/profile-displaybackgroundimage-shrink_350_1400/B4DZcWiFDcGYAY-/0/1748429722884?e=1753920000&v=beta&t=slM68MIWf-4-vv6e2rhMrrqbbWPiskK2iX-qLSSBpcg"/>
 </div>
 
 
