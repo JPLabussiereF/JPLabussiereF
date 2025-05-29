@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img height="350em" src="https://media.licdn.com/dms/image/v2/D4D16AQESUJhud_J-hA/profile-displaybackgroundimage-shrink_350_1400/B4DZcWiFDcGYAY-/0/1748429722884?e=1753920000&v=beta&t=slM68MIWf-4-vv6e2rhMrrqbbWPiskK2iX-qLSSBpcg"/>
+  <img height="300em" src="https://media.licdn.com/dms/image/v2/D4D16AQESUJhud_J-hA/profile-displaybackgroundimage-shrink_350_1400/B4DZcWiFDcGYAY-/0/1748429722884?e=1753920000&v=beta&t=slM68MIWf-4-vv6e2rhMrrqbbWPiskK2iX-qLSSBpcg"/>
 </div>
 
 
