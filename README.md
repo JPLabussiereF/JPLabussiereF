@@ -24,8 +24,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaolabussiere/)
 [![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/Labusse)
 
-> [!NOTE]
-> 📄 **[Meu currículo](assets/docs/Curriculo-Joao-Pedro-Labussiere-Franca.pdf)**
+> 
+> 📄 **[Meu currículo!](assets/docs/Curriculo-Joao-Pedro-Labussiere-Franca.pdf)**
 
 ## 🧠 Knowledge
 
