@@ -14,7 +14,7 @@
 
 👾 Hello! I'm João Pedro, a seventh-semester Computer Engineering student and IT intern, dedicated to exploring and expanding my knowledge in the vast world of technology!
 
-🌱 I constantly seek to learn and improve my skills in various areas, including software development, artificial intelligence, machine learning and information security. I firmly believe that continuous education and curiosity are key to success in this ever-evolving industry.
+🌱 I'm passionate about continuously learning and developing my skills in programming, software development, AI, and cybersecurity. I believe that staying curious and embracing lifelong learning are essential in our rapidly evolving tech landscape.
 
 💼 Always open to new learning and collaboration opportunities! 
 
